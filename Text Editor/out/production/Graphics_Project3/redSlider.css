@@ -1,0 +1,4 @@
+/* Styling the slider thumb */
+.jfx-slider > .thumb {
+     -fx-background-color: red;
+}
