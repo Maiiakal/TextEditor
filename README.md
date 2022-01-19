@@ -7,7 +7,6 @@ Custom fonts was implement using Java and Swing.
 The text editor that uses characters using the bitmap scheme.
 
 <img width="974" alt="Screen Shot 2022-01-19 at 14 39 11" src="https://user-images.githubusercontent.com/64331963/150137060-bb2d30ed-04fc-4167-a55a-d3e52d6a3928.png">
-<img width="974" alt="Screen Shot 2022-01-19 at 14 39 11" src="https://user-images.githubusercontent.com/64331963/150137038-2c4b91c2-d4b5-48ca-bf01-7f20244fb941.png">
 
 
 The desktop features:
