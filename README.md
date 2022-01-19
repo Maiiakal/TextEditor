@@ -1,6 +1,7 @@
 # TextEditor
 
-<img width="1069" alt="Screen Shot 2022-01-19 at 14 36 01" src="https://user-images.githubusercontent.com/64331963/150136941-fdd4b944-af4d-4164-9c93-9a79ad176d32.png">
+<img width="856" alt="Screen Shot 2022-01-19 at 14 36 01" src="https://user-images.githubusercontent.com/64331963/150141573-36433196-527b-4101-ad25-6f809bca9d23.png">
+
 
 Custom fonts was implement using Java and Swing. 
 
